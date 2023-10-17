@@ -1,0 +1,108 @@
+body{
+  background-color: #FAF1E4 !important;  
+  padding: 0px !important;
+  margin: 0px !important;
+
+}
+
+#home_page{
+  background-color:#CEDEBD;
+  margin-top: 25vh !important;
+  padding: 25px 50px 0px 50px !important;
+  height: 25vh;
+  width: 50vw;
+}
+
+
+
+#login_page{
+  background-color: #9EB384;
+  margin-top: 25vh !important;
+  padding: 25px 50px 25px 50px !important ;
+  height: 45vh;
+  width: 50vw;
+}
+
+#register_page{
+  background-color: #9EB384;
+  margin-top: 25vh !important;
+  padding: 25px 50px 25px 50px !important ;
+  height: 55vh;
+  width: 50vw;
+}
+
+.l-btn:hover{
+  background-color: #7EAA92!important ;
+  color: black !important;
+  border-color: black!important;
+}
+
+#header{
+  background-color: #9EB384 !important;
+  height: 15vh !important;
+  width: 101vw ;
+  padding: 15px 0px 10px 50px !important;
+  margin-left: 10px !important;
+
+}
+
+#logout_link{
+  text-decoration: none;
+  color: black;
+}
+
+.link{
+  text-decoration: none;
+  color: black;
+}
+
+.link:hover{
+
+  color:white;
+}
+
+
+#logout_link:hover{
+  background-color: #7b8f63;
+  color: white!important;
+}
+
+#left-sidebar{
+ margin-top:50px !important ;
+ width: 13vw;
+ height: 13vh;
+}
+
+#left_sidebar table tr{
+  background-color: #CEDEBD;
+  color: white;
+  font-size: 18px;
+}
+
+#left_sidebar table tr:hover{
+  background-color: #7b8f63;
+  color: black ;
+  font-size: 20px;
+}
+
+#right_sidebar{
+  padding: 35px;
+  height: 75vh;
+  width: 75vw;
+  color: black;  
+}
+
+.border{
+  border:2px solid black !important;
+}
+
+.border:hover{
+  outline: #7EAA92 solid 3px !important;
+}
+
+.container{
+  align-items: center;
+  margin-left: 40%;
+  display: flex;
+  flex-direction: column;
+}
